@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core ML and NLP Libraries (CPU versions)
+torch==2.1.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
+keybert==0.7.0
+spacy==3.7.2
+
+# PDF Processing Libraries
+PyMuPDF==1.23.21
+pdfplumber==0.10.3
+
+# Spacy Model (Pinned to a specific version)
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz

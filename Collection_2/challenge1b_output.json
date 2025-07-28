@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-26T21:57:42.575494"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and sign PDF forms",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Manage your bulk sends",
+            "importance_rank": 3,
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create PDFs from Word mail merges",
+            "importance_rank": 4,
+            "page_number": 27
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and send it for review",
+            "importance_rank": 5,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create PDFs by printing to file",
+            "importance_rank": 6,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create a PDF using the Print command (Windows)",
+            "importance_rank": 7,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "acrobat and Acrobat Reader users can use the Fill Sign tool to fill in flat forms . interactive form To create an interactive form, use the Prepare Form tool or enabling the fill Sign tools . if you create a different form, redo this task to enable the tools to be used . the tools are enabled for the current form only .",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "fill and sign PDF forms using the sign tools described in the following topics . to fill text fields, open the form in Acrobat and then select E-Sign from the global bar . Alternatively, you can select All tools Fill Sign . it displays a text field along with a toolbar . the default color for signatures is black, and the next annotations you add will be of the same size .",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Manage your bulk sends Bulk sends can be managed from your Documents tab . Select Bulk Sends in the list of Your documents on the left side of the window . single-click the bulk send you to want to access, opening the context menu on the right side . click the See More link at the bottom right of the section to see all of the actions you can take .",
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Create PDFs from Word mail merges Mail merges generate documents like form letters . you can even set up PDFMaker to attach those PDFs to email messages generated during the PDF-creation process . if you select Automatically Send Adobe PDF Files By Email, do one of the following To create and save merged PDFs for printing or sending later in email .",
+            "page_number": 27
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "create a PDF and send it for review 1. Open the file in the application used to create it . click the Convert To Adobe PDF And Send For Review button on the Acrobat PDFMaker toolbar . if available, choose Adobe PDF Convert to Adobe PDF and Send for review . follow the directions in the wizard that appears, as described in Start an email-based review.",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "your source document is converted to PostScript and fed directly to Distiller for conversion to PDF . the Adobe PDF printer does not include some of the features available from PDFMaker . tagged structure is required for reflowing content to a handheld device and is preferable for producing reliable results with a screen reader .",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Adobe PDF is saved in the folder specified by the setting of the Adobe PDF Output Folder in the Preferences dialog box the default location is My Documents . if you specify Prompt For Adobe PDF Filename, then a Save As dialog opens when you print . click the Properties button to customize the printer setting .",
+            "page_number": 12
+        }
+    ]
+}

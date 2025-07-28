@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-26T22:07:17.644794"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Wine Tours",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Culinary Experiences",
+            "importance_rank": 2,
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Clothing",
+            "importance_rank": 3,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Nightclubs",
+            "importance_rank": 4,
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Travel Tips",
+            "importance_rank": 5,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Local Experiences",
+            "importance_rank": 6,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Wine Tasting",
+            "importance_rank": 7,
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Luxurious Hotels",
+            "importance_rank": 8,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Wine Tours Comfortable Clothing Wear a notebook to jot down notes about the wines you taste . Water Bottle Stay hydrated by drinking water between tastings . Tips and Tricks for Packing Check the Weather Check the forecast before packing to ensure appropriate clothing . make a packing list Create a list to ensure nothing is forgotten .",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "cooking classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes . some classes include a visit to a local market to shop for fresh ingredients . visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce .",
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "clothing Casual Wear If you plan on hiking or outdoor activities, pack activewear like leggings, shorts, and moisture-wicking tops . additional Tips Pack a few statement pieces that can be dressed up or down, such as a versatile dress or a pair of stylish shoes . toiletries Basic Toiletries Toothbrush, toothpaste, shampoo, conditioner, body wash, deodorant, and personal hygiene items .",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "Saint-Tropez Dance at the famous Les Caves du Roy . Nice Party at High Club on the Promenade des Anglais . Marseille Visit R2 Rooftop, a popular nightclub with panoramic views of the city and the sea . Montpellier Dance the night away at L'Antirouille . the south of France offers a wide range of activities and experiences for travelers .",
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "travel tips best time to visit the south of france is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller . renting a car is also a great option for exploring the countryside and smaller towns . learning basic French phrases can enhance your travel experience .",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "local Experiences Boat Trip to the Calanques Take a boat trip to the fish market at the Old Port to experience the local seafood culture . Street Art in Cours Julien Explore the vibrant street art scene in the cours lisbon district . the cliffs and coves along the coast are stunning .",
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "wine Tasting Provence Explore vineyards known for their rosé wines . Languedoc Discover diverse wines, including reds, whites, and sparkling wines. Châteauneuf-du-Pape Visit this famous wine region near Avignon. Bandol Taste the robust red wines and refreshing rosés of this coastal region.",
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Hôtel de Paris Monte-Carlo (Monaco) A luxury hotel located in the heart of Monaco, offering opulent rooms, a world-class spa, and several Michelin-starred restaurants . the historic grandeur and exceptional service make it a top choice for luxury accommodations . Hôtel du Cap-Eden-Roc (Antibes) A legendary hotel set in a vineyard, offering elegant rooms and a spa .",
+            "page_number": 12
+        }
+    ]
+}
