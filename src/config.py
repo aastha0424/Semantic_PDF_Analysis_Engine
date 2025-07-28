@@ -14,7 +14,7 @@ else:
     # If not in Docker, fall back to a local path for testing in VS Code.
     SRC_DIR = Path(__file__).resolve().parent
     BASE_DIR = SRC_DIR.parent
-    LOCAL_COLLECTION = "Collection_2" #<-- Change this for local VS code testing
+    LOCAL_COLLECTION = "Collection_1" #<-- Change this for local VS code testing
     print(f"⚠️ Docker environment not found. Falling back to local path for '{LOCAL_COLLECTION}'.")
     INPUT_DIR = BASE_DIR / LOCAL_COLLECTION
 

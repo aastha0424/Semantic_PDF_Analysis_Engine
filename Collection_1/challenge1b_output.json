@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T19:04:02.066156"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Wine Tours",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Planning, and Exploring",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Culinary Experiences",
+            "importance_rank": 3,
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Nightclubs",
+            "importance_rank": 4,
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Travel Tips",
+            "importance_rank": 5,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Local Experiences",
+            "importance_rank": 6,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Check the weather forecast before packing to ensure appropriate clothing . Make a Packing List to ensure nothing is forgotten . Use Packing Cubes Organize clothes and maximize space . Roll your Clothes Save space and reduce wrinkles . Wear bulky items like coats or boots during travel to save suitcase space . Consider using a luggage scale to avoid overweight baggage fees",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience . This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities . The weather can vary, so pack layers to stay comfortable in different weather . The guide will help you make the most of your trip. The weather",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The South of France is renowned for its wine regions, including Provence and Languedoc . Visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie . Take a wine tour to visit vineyards, taste local wines and learn about",
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "The South of France is a diverse and enchanting region that offers a wide range of activities and experiences for travelers . Use this guide to plan your trip and make the most of everything this beautiful region has to offer . Visit R2 Rooftop, a popular nightclub with panoramic views of the city and the sea in Marseille",
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "The best time to visit the South of France is during the spring (April to June) and fall (September to October) When the weather is pleasant, and the tourist crowds are smaller . Renting a car is also a great option for exploring the countryside and smaller towns . The region is well-connected by an extensive network of trains, buses",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Take a boat trip to the Calanques, a series of stunning limestone cliffs and coves along the coast . Visit the fish market at the Old Port to experience the local seafood culture . Explore the vibrant street art scene in the Cours Julien district . See street art and street art on the streets of CoursJulien in the",
+            "page_number": 3
+        }
+    ]
+}
