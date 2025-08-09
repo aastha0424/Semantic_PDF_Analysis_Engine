@@ -12,7 +12,7 @@ You can build the Docker image in two ways: from your local files or directly fr
 
 #### Option A: Build from Local Files
 Open your terminal (PowerShell, Command Prompt, etc.),  
-navigate to the `Team_AiVengers_Challenge_1b` project directory,  
+navigate to the `Semantic_PDF_Analysis_Engine` project directory,  
 and run:
 ```bash
 docker build -t challenge1b-solution .
@@ -22,7 +22,7 @@ docker build -t challenge1b-solution .
 This command downloads the repository and builds the image from the Dockerfile.
 Replace with your GitHub repo URL:
 ```bash
-docker build -t challenge1b-github https://github.com/aastha0424/Team_AiVengers_Challenge_1b
+docker build -t challenge1b-github https://github.com/aastha0424/Semantic_PDF_Analysis_Engine
 ```
 
 ### Step 2: Run the Analysis
