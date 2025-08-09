@@ -1,7 +1,4 @@
-# Challenge 1b: Multi-Collection PDF Analysis
-
-## Team Name: AiVengers
-
+# Semantic PDF Analysis Engine
 
 ## Solution Overview
 
